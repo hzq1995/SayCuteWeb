@@ -89,7 +89,7 @@ PORT        = 7070                      # 端口
 python app.py
 ```
 
-浏览器访问 **http://localhost:7070**，即可开始对话。
+浏览器访问 http://localhost:7070，即可开始对话。
 
 ---
 
